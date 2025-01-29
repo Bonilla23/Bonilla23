@@ -95,7 +95,7 @@ But right now, I'm mainly focused on **Python** 🐍
     <a href="#"><img alt="Rocky Linux" src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"></a>
 </p>
 
-<h2>⚡ Fun Fact:  </h2>
+<h2>⚡ Fun Fact  ⚡</h2>
  I’m always seeking new challenges and learning something new every day! 🚀
 
 
