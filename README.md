@@ -47,8 +47,9 @@ But right now, I'm mainly focused on **Python** 🐍
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    
-
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnubash&logoColor=white" width="56"></a>
+    <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235F9B8C?style=for-the-badge&logo=powershell&logoColor=white" width="80"></a>
+</p>
 
 ### 📚 Frameworks and Libraries
 
@@ -79,6 +80,7 @@ But right now, I'm mainly focused on **Python** 🐍
 <p>
     <a href="#"><img alt="Visual Studio Core" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+    <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-%23602B9E?style=for-the-badge&logo=virtualbox&logoColor=white"></a>
 </p>
 
 ### 🐧 Linux Distros
