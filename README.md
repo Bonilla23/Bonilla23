@@ -57,7 +57,8 @@ But right now, I'm mainly focused on **Python** 🐍
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-   <a href="#"><img alt="MySQL Pages" src="https://img.shields.io/badge/MySQL%20Pages-%234479A1.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
+</p>
 
 ### 💻🛠️ Software and Tools
 
@@ -78,11 +79,16 @@ But right now, I'm mainly focused on **Python** 🐍
 
 ### 🐧 Linux Distros
 <p>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white"></a>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
-
+    <a href="#"><img alt="Lubuntu" src="https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
+    <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+    <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></a>
+    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
+    <a href="#"><img alt="Rocky Linux" src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"></a>
 </p>
+
 <h2>⚡ **Fun Fact:**  </h2>
-I'm always looking for new challenges and learning something new every day. 🚀
+ I’m always seeking new challenges and learning something new every day! 🚀
 
