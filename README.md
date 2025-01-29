@@ -56,6 +56,7 @@ But right now, I'm mainly focused on **Python** 🐍
 <p>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Turtle" src="https://img.shields.io/badge/Turtle-00A050?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Random" src="https://img.shields.io/badge/Random-FFD700?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
